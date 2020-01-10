@@ -1,0 +1,6 @@
+https://www.maissane-cosmetiques.com/GCETest/
+<<<<<<< HEAD
+seconde ligne
+je rejoute du blabla
+=======
+>>>>>>> parent of 0e870b5... second changement de fichier
